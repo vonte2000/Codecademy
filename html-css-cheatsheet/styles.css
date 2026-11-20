@@ -7,7 +7,12 @@ header,
 nav {
     text-align: center;
 }
-
+table,
+th,
+td {
+    border: 2px solid;
+    display: flex;
+}
 .html {
     color: orange;
 }
