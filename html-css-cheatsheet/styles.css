@@ -2,3 +2,16 @@ body {
     display: flex;
     flex-direction: column;
 }
+header,
+nav {
+    text-align: center;
+}
+.html {
+    color: orange;
+}
+.css {
+    color: blue;
+}
+.js {
+    color: #F1D302;
+}
