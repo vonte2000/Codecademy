@@ -1,16 +1,18 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: #002A32;
 }
 header,
 nav {
     text-align: center;
 }
+
 .html {
     color: orange;
 }
 .css {
-    color: blue;
+    color: #4169E1;
 }
 .js {
     color: #F1D302;
